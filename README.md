@@ -14,19 +14,27 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi everyone 👋 
+# Hi everyone 👋 
 
 <img src="https://i.imgur.com/2PdCJk3.gif" align="right" alt="lmao me irl" width="350">
 
-Hi, my name is Dani and this is my github profile. Here you can find mainly infosec and ctf tools and scripts. Speaking of CTFs, I compete with [ripp3rs](https://github.com/ripp3rs).
+Hi, my name is Dani and this is my github profile. Here you can mainly find infosec and ctf tools and scripts. Speaking of CTFs, I compete with [ripp3rs](https://github.com/ripp3rs).
 
 I also play [Codewars](https://www.codewars.com/users/danielcues), but my kata solutions are on a private repo ;)
 
 [![Codewars: danielcues](https://www.codewars.com/users/danielcues/badges/micro)](https://www.codewars.com/users/danielcues)
 
+I can however, show you the last kata I've done, but only if you've found it within a few weeks since I posted this (if I don't forget to remove it).
 
+<details>
+  <summary><code>Don't get spoiled tho</code></summary>
+<br>
+  
+[[6kyu]-JoJos_Bizarre_Kata ](https://gist.github.com/daniel-cues/5cd34edbf071a5f256f6396aeb55be13)
 
-Here are my socials:
+</details>
+
+## Here are my socials:
 
 [![Twitter: danielcues](https://img.shields.io/twitter/follow/danielcues?style=social)](https://twitter.com/danielcues)
 [![Twitter: ripp3rs](https://img.shields.io/twitter/follow/ripp3rsctf?style=social)](https://twitter.com/ripp3rsctf)
