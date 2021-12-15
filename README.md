@@ -40,5 +40,5 @@ I can however, show you the last kata I've done, but only if you've found it wit
 [![Twitter: ripp3rs](https://img.shields.io/twitter/follow/ripp3rsctf?style=social)](https://twitter.com/ripp3rsctf)
 
 [![Linkedin: Dani Cuesta](https://img.shields.io/badge/-danielcues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcues/)](https://www.linkedin.com/in/danielcues/)
-[![GitHub danicuestasuarez](https://img.shields.io/github/followers/danicuestasuarez?label=Check%20my%20code&style=social)](https://github.com/danicuestasuarez)
-[![HackTheBox: devploit](https://img.shields.io/badge/-danielcues-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://www.linkedin.com/in/danielcues/)](https://app.hackthebox.eu/profile/20220)
+[![GitHub daniel-cues](https://img.shields.io/github/followers/daniel-cues?label=You%20are%20here!&style=social)](https://github.com/daniel-cues)
+[![HackTheBox: danielcues](https://img.shields.io/badge/-danielcues-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://app.hackthebox.com/profile/20220)](https://app.hackthebox.com/profile/20220)
