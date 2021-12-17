@@ -30,7 +30,7 @@ I can however, show you the last kata I've done, but only if you've found it wit
   <summary><code>Don't get spoiled tho</code></summary>
 <br>
   
-[[6kyu]-JoJos_Bizarre_Kata ](https://gist.github.com/daniel-cues/5cd34edbf071a5f256f6396aeb55be13)
+[[5kyu]-Calculating_with_Functions.py](https://gist.github.com/daniel-cues/fa7cbd53a1e659e982e2642f7f009b93)
 
 </details>
 
