@@ -30,7 +30,7 @@ I can however, show you the last kata I've done, but only if you've found it wit
   <summary><code>Don't get spoiled tho</code></summary>
 <br>
   
-[[5kyu]-Calculating_with_Functions.py](https://gist.github.com/daniel-cues/fa7cbd53a1e659e982e2642f7f009b93)
+[[2kyu]-One_Line_Task_Circle_Intersection.py](https://gist.github.com/daniel-cues/0341fd12c5b8f4ec9d6411ea38a5e4fe)
 
 </details>
 
