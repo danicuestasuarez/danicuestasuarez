@@ -26,13 +26,13 @@ I also play [Codewars](https://www.codewars.com/users/danielcues), but my kata s
 
 I can however, show you the last kata I've done, but only if you've found it within a few weeks since I posted this (if I don't forget to remove it).
 
+<!--
 <details>
   <summary><code>Don't get spoiled tho</code></summary>
 <br>
-  
-[[2kyu]-One_Line_Task_Circle_Intersection.py](https://gist.github.com/daniel-cues/0341fd12c5b8f4ec9d6411ea38a5e4fe)
-
+ 
 </details>
+-->
 
 ## Here are my socials:
 
