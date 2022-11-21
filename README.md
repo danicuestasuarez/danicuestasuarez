@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Hi, my name is Dani and this is my github profile. Here you can mainly find infosec and ctf tools and scripts. Speaking of CTFs, I compete with [ripp3rs](https://github.com/ripp3rs).
 
-I also play [Codewars](https://www.codewars.com/users/danielcues), but my kata solutions are on a private repo ;)
+I also used to play [Codewars](https://www.codewars.com/users/danielcues), but my kata solutions are on a private repo ;)
 
 [![Codewars: danielcues](https://www.codewars.com/users/danielcues/badges/micro)](https://www.codewars.com/users/danielcues)
 
