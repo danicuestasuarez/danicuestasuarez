@@ -24,9 +24,9 @@ I also play [Codewars](https://www.codewars.com/users/danielcues), but my kata s
 
 [![Codewars: danielcues](https://www.codewars.com/users/danielcues/badges/micro)](https://www.codewars.com/users/danielcues)
 
+<!--
 I can however, show you the last kata I've done, but only if you've found it within a few weeks since I posted this (if I don't forget to remove it).
 
-<!--
 <details>
   <summary><code>Don't get spoiled tho</code></summary>
 <br>
