@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi everyone 👋 
+<h1 align="center"> Hi everyone 👋 </h1>
 
 <img src="https://i.imgur.com/2PdCJk3.gif" align="right" alt="lmao me irl" width="350">
 
@@ -42,3 +42,8 @@ I can however, show you the last kata I've done, but only if you've found it wit
 [![Linkedin: Dani Cuesta](https://img.shields.io/badge/-danielcues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcues/)](https://www.linkedin.com/in/danielcues/)
 [![GitHub daniel-cues](https://img.shields.io/github/followers/daniel-cues?label=You%20are%20here!&style=social)](https://github.com/daniel-cues)
 [![HackTheBox: danielcues](https://img.shields.io/badge/-danielcues-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://app.hackthebox.com/profile/20220)](https://app.hackthebox.com/profile/20220)
+
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=daniel-cues" alt="danielcues"/> </p>
+
+
+
