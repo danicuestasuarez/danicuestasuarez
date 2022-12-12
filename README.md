@@ -48,7 +48,7 @@ I can however, show you the last kata I've done, but only if you've found it wit
 <a href="https://discordapp.com/users/174280243954057216"><img src="https://cdn.simpleicons.org/DISCORD/" width=30px/> </a>&nbsp;&nbsp;
 <a href="https://github.com/daniel-cues/"><img src="https://cdn.simpleicons.org/GITHUB/white" width=30px/></a>&nbsp;&nbsp;
 <a href="https://app.hackthebox.com/profile/20220/"><img src="https://cdn.simpleicons.org/HACKTHEBOX/" width=30px/></a>&nbsp;&nbsp;
-<a href="https://www.codewars.com/users/danielcues/"><figure><img src="https://user-images.githubusercontent.com/16452665/206246615-68336137-da87-4a0e-85c4-a930b01fd0c0.png" width=30px/></a>&nbsp;&nbsp; 
+<a href="https://www.codewars.com/users/danielcues/"><img src="https://user-images.githubusercontent.com/16452665/206246615-68336137-da87-4a0e-85c4-a930b01fd0c0.png" width=30px/></a>&nbsp;&nbsp; 
 
 <!--
 [![Twitter: danielcues](https://img.shields.io/twitter/follow/danielcues?style=social)](https://twitter.com/danielcues)
