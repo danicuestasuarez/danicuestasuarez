@@ -23,9 +23,9 @@ My name is Dani and this is my github profile. Here you can mainly find infosec 
 
 - <img src="https://user-images.githubusercontent.com/16452665/206275381-f4c26764-8032-4024-bec0-8dd916ca1d35.png" width=20em> I’m currently working at <a href="https://www.oracle.com"><img src="https://user-images.githubusercontent.com/16452665/206275782-1c763d30-90b3-498f-b21b-55a1d5b3d595.png" height=10em></a> as a pentester.
 - 🏆 I compete CTFs with [ripp3rs](https://github.com/ripp3rs).
-- 📚 I’m currently working on my OSEP cert.
+- 📚 I’m currently studying for the OSEP cert.
 - 📫 How to reach me: you can find my socials below.
-- ⚡ Fun fact: 9/10 people have an relative they ask dumb IT questions to. The other one is you.
+- ⚡ Fun fact: 9/10 people have a relative they ask dumb IT questions to. The other one is you.
 
 I also used to play [Codewars](https://www.codewars.com/users/danielcues), but my kata solutions are on a private repo 😉
 
@@ -59,7 +59,7 @@ I can however, show you the last kata I've done, but only if you've found it wit
 -->
   
 </div>
-
+<br>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=daniel-cues" alt="danielcues"/> </p>
  
